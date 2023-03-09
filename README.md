@@ -7,8 +7,7 @@ Clash for Windows 是目前在 Windows 上唯一可用的图形化 Clash 分支�
 
 支持的协议： `Vmess`, `Shadowsocks,`` Snell `, `SOCKS5` , `ShadowsocksR`。
 ## 2、下载地址
-**Clash for Windows客户端：**[点击前往下载](https://www.hereitis.cn/soft/clashforwindows "点击前往下载")
-**Clash中文汉化补丁**： [点击下载汉化补丁](https://www.hereitis.cn/soft/clashforwindowshhb "点击下载汉化补丁")
+**Clash for Windows中文版客户端：**[点击前往下载](https://www.hereitis.cn/soft/clashforwindowszh "点击前往下载")
 
 ## 3、配置使用教程
 1、通过上面链接下载解压后，打开其中的Clash for Windows.exe（部分电脑上没有显示后缀，即文件名叫 Clash for Windows）
